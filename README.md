@@ -2,7 +2,7 @@
 
 # 🌌 Muhammad Ammar Ridho
 
-### `ML/AI Engineer` • `Backend Developer` • `Data Science Enthusiast`
+### `ML/AI Engineer` • `Fullstack Developer` • `Data Science Enthusiast`
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portofolio-ammar-smoky.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhenerar21@gmail.com)
