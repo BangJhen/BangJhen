@@ -68,7 +68,7 @@ class AmmarRidho:
 ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 
-### Database & Tools
+### Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -115,30 +115,11 @@ mindmap
 
 ---
 
-## 💼 Current Roles
-
-**🔬 PIC Data Mining Competition** @ PRODIGI `May 2025 - Present`  
-Leading Data Mining Division, mentoring talents in AI Innovation & Data Analytics
-
-**🕷️ Web Scraping R&D** @ Central Computer Improvement `April 2025 - Present`  
-Developing scraping solutions using TypeScript, Puppeteer, and optimizing crawling pipelines
-
----
-
-## 🌱 Research Interests
-
-- **Large Language Models**: Local fine-tuning, practical applications, efficient inference
-- **Tabular Deep Learning**: FT-Transformer, Mixture of Experts, handling missing features
-- **Applied AI**: Agriculture solutions, education tools, community-based AI
-- **System Design**: Scalable ML pipelines, distributed systems
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-FF5722?style=for-the-badge)](https://portofolio-ammar-smoky.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-FF5722?style=for-the-badge)](https://ammarridho.dev/)
 [![Email](https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge)](mailto:jhenerar21@gmail.com)
 
 **Open to collaborate on ML/AI Projects • Backend Development • Research Opportunities**
