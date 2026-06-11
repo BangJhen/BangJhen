@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 Muhammad Ammar Ridho
+# Muhammad Ammar Ridho
 
 ### `ML/AI Engineer` • `Fullstack Developer` • `Data Science Enthusiast`
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```python
 class AmmarRidho:
@@ -32,7 +32,7 @@ class AmmarRidho:
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -64,7 +64,7 @@ class AmmarRidho:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
