@@ -8,15 +8,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhenerar21@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ammar-ridho)
 
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║  🎓 Data Science Student @ Telkom University                  ║
-║  🚀 Focused on LLM, Applied AI & Scalable ML Systems          ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
 ---
 
 ## 🧠 About Me
@@ -51,8 +42,6 @@ class AmmarRidho:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-
-
 ### Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -67,39 +56,11 @@ class AmmarRidho:
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-
 ### Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🚀 Expertise
-
-```mermaid
-mindmap
-  root((ML/AI Engineer))
-    Machine Learning
-      Supervised Learning
-      Imbalanced Datasets
-      Feature Engineering
-      Ensemble Methods
-    Deep Learning
-      Computer Vision
-      Tabular DL
-      Time Series
-      Graph Neural Networks
-    Backend Development
-      REST API
-      Web Scraping
-      Database Design
-    Applied AI
-      LLM Fine-tuning
-      Agriculture AI
-      Forecasting Systems
-```
 
 ---
 
@@ -114,16 +75,3 @@ mindmap
 </div>
 
 ---
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-FF5722?style=for-the-badge)](https://ammarridho.dev/)
-[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge)](mailto:jhenerar21@gmail.com)
-
-**Open to collaborate on ML/AI Projects • Backend Development • Research Opportunities**
-
-![Profile Views](https://komarev.com/ghpvc/?username=BangJhen&color=58A6FF&style=for-the-badge)
-
-</div>
